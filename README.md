@@ -59,3 +59,11 @@ Would you like to Search for or Complete a task (enter 1 or 2):
 1 - Search
 2 - Complete a task
 EXIT
+
+
+4. Compile and Run Tests
+
+g++ -std=c++11 -DUNIT_TEST test.cpp -o TestApp
+./TestApp
+
+
